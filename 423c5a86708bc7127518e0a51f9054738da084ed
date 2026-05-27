@@ -1,0 +1,50 @@
+webview/src/hooks/useChatComputations.ts
+  2347285dc28500d5 11,141-149
+webview/src/utils/toolConstants.ts
+  2347285dc28500d5 28-30
+webview/src/components/MessageItem/ContentBlockRenderer.tsx
+  2347285dc28500d5 13,252
+webview/src/utils/todoToolNormalization.ts
+  2347285dc28500d5 1-2,62-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.8",
+  "base_commit_sha": "423c5a86708bc7127518e0a51f9054738da084ed",
+  "prompts": {
+    "2347285dc28500d5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "de7b4e38-8381-4f3b-862f-928542379694",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "zhuzhihang",
+      "messages": [],
+      "total_additions": 63,
+      "total_deletions": 7,
+      "accepted_lines": 63,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "webview/src/utils/todoToolNormalization.ts": {
+          "additions": 48,
+          "deletions": 2,
+          "accepted_lines": 48
+        },
+        "webview/src/hooks/useChatComputations.ts": {
+          "additions": 10,
+          "deletions": 3,
+          "accepted_lines": 10
+        },
+        "webview/src/utils/toolConstants.ts": {
+          "additions": 3,
+          "accepted_lines": 3
+        },
+        "webview/src/components/MessageItem/ContentBlockRenderer.tsx": {
+          "additions": 2,
+          "deletions": 2,
+          "accepted_lines": 2
+        }
+      }
+    }
+  }
+}
