@@ -1,0 +1,84 @@
+webview/src/utils/expandedState.ts
+  21d7588c1d73cba5 1-13
+webview/src/components/toolBlocks/ReadToolBlock.tsx
+  21d7588c1d73cba5 9,69-77
+webview/src/components/toolBlocks/AgentGroupBlock.tsx
+  21d7588c1d73cba5 6,85-86,90
+webview/src/components/toolBlocks/TaskExecutionBlock.tsx
+  21d7588c1d73cba5 6,124-132
+webview/src/components/toolBlocks/BashToolBlock.tsx
+  21d7588c1d73cba5 5,21-29
+webview/src/styles/less/components/task.less
+  21d7588c1d73cba5 220-222,228-230
+webview/src/components/toolBlocks/GenericToolBlock.tsx
+  21d7588c1d73cba5 6,215-223
+webview/src/components/toolBlocks/TaskExecutionBlock.test.tsx
+  21d7588c1d73cba5 3,28
+webview/src/components/MessageItem/MessageItem.tsx
+  21d7588c1d73cba5 112-115,184-187,209-212,214,219-223,228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.8",
+  "base_commit_sha": "7d1985245f93aa5ca828de2f453e2716a6fc0eb5",
+  "prompts": {
+    "21d7588c1d73cba5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24a0a9a2-6862-49e0-a516-11c9a0423fb5",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "zhuzhihang",
+      "messages": [],
+      "total_additions": 100,
+      "total_deletions": 38,
+      "accepted_lines": 95,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "webview/src/components/toolBlocks/TaskExecutionBlock.test.tsx": {
+          "additions": 2,
+          "accepted_lines": 2
+        },
+        "webview/src/utils/expandedState.ts": {
+          "additions": 13,
+          "accepted_lines": 13
+        },
+        "webview/src/styles/less/components/task.less": {
+          "additions": 6,
+          "deletions": 4,
+          "accepted_lines": 6
+        },
+        "webview/src/components/toolBlocks/GenericToolBlock.tsx": {
+          "additions": 10,
+          "deletions": 1,
+          "accepted_lines": 10
+        },
+        "webview/src/components/toolBlocks/ReadToolBlock.tsx": {
+          "additions": 10,
+          "deletions": 1,
+          "accepted_lines": 10
+        },
+        "webview/src/components/toolBlocks/TaskExecutionBlock.tsx": {
+          "additions": 10,
+          "deletions": 1,
+          "accepted_lines": 10
+        },
+        "webview/src/components/toolBlocks/AgentGroupBlock.tsx": {
+          "additions": 4,
+          "deletions": 4,
+          "accepted_lines": 4
+        },
+        "webview/src/components/toolBlocks/BashToolBlock.tsx": {
+          "additions": 10,
+          "deletions": 1,
+          "accepted_lines": 10
+        },
+        "webview/src/components/MessageItem/MessageItem.tsx": {
+          "additions": 35,
+          "deletions": 26,
+          "accepted_lines": 30
+        }
+      }
+    }
+  }
+}
