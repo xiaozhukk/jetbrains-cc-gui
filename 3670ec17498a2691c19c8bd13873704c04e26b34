@@ -1,0 +1,65 @@
+webview/src/components/MarkdownBlock.tsx
+  21d7588c1d73cba5 9,317,361,364
+webview/src/styles/less/components/message.less
+  21d7588c1d73cba5 753,814-815,817-819,821-827,1031
+webview/src/utils/linkify.test.ts
+  21d7588c1d73cba5 122,132-133
+webview/src/styles/less/components/tools.less
+  21d7588c1d73cba5 10,53
+webview/src/utils/linkify.ts
+  21d7588c1d73cba5 180,423-424
+webview/src/components/MarkdownBlock.test.tsx
+  21d7588c1d73cba5 46,58-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.8",
+  "base_commit_sha": "3670ec17498a2691c19c8bd13873704c04e26b34",
+  "prompts": {
+    "21d7588c1d73cba5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24a0a9a2-6862-49e0-a516-11c9a0423fb5",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "zhuzhihang",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 24,
+      "accepted_lines": 32,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "webview/src/components/MarkdownBlock.test.tsx": {
+          "additions": 5,
+          "deletions": 5,
+          "accepted_lines": 5
+        },
+        "webview/src/styles/less/components/message.less": {
+          "additions": 16,
+          "deletions": 5,
+          "accepted_lines": 15
+        },
+        "webview/src/components/MarkdownBlock.tsx": {
+          "additions": 4,
+          "deletions": 5,
+          "accepted_lines": 4
+        },
+        "webview/src/styles/less/components/tools.less": {
+          "additions": 2,
+          "deletions": 2,
+          "accepted_lines": 2
+        },
+        "webview/src/utils/linkify.test.ts": {
+          "additions": 3,
+          "deletions": 3,
+          "accepted_lines": 3
+        },
+        "webview/src/utils/linkify.ts": {
+          "additions": 3,
+          "deletions": 4,
+          "accepted_lines": 3
+        }
+      }
+    }
+  }
+}
