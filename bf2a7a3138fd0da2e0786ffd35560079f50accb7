@@ -1,0 +1,56 @@
+webview/src/styles/less/components/task.less
+  21d7588c1d73cba5 212-229
+webview/src/styles/less/components/message.less
+  21d7588c1d73cba5 923
+webview/src/components/MessageItem/MessageItem.tsx
+  21d7588c1d73cba5 18,22,55-56,122-124,174-187,189-206,247,581-594
+webview/src/utils/toolConstants.ts
+  21d7588c1d73cba5 31-33
+webview/src/components/toolBlocks/AgentGroupBlock.tsx
+  21d7588c1d73cba5 1-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.8",
+  "base_commit_sha": "bf2a7a3138fd0da2e0786ffd35560079f50accb7",
+  "prompts": {
+    "21d7588c1d73cba5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24a0a9a2-6862-49e0-a516-11c9a0423fb5",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "zhuzhihang",
+      "messages": [],
+      "total_additions": 248,
+      "total_deletions": 12,
+      "accepted_lines": 240,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "webview/src/styles/less/components/task.less": {
+          "additions": 18,
+          "accepted_lines": 18
+        },
+        "webview/src/components/MessageItem/MessageItem.tsx": {
+          "additions": 54,
+          "deletions": 3,
+          "accepted_lines": 54
+        },
+        "webview/src/utils/toolConstants.ts": {
+          "additions": 3,
+          "accepted_lines": 3
+        },
+        "webview/src/components/toolBlocks/AgentGroupBlock.tsx": {
+          "additions": 172,
+          "deletions": 8,
+          "accepted_lines": 164
+        },
+        "webview/src/styles/less/components/message.less": {
+          "additions": 1,
+          "deletions": 1,
+          "accepted_lines": 1
+        }
+      }
+    }
+  }
+}
