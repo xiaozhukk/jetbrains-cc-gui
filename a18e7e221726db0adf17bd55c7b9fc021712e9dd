@@ -1,0 +1,31 @@
+webview/src/styles/less/components/message.less
+  21d7588c1d73cba5 831,836
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.8",
+  "base_commit_sha": "a18e7e221726db0adf17bd55c7b9fc021712e9dd",
+  "prompts": {
+    "21d7588c1d73cba5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24a0a9a2-6862-49e0-a516-11c9a0423fb5",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "zhuzhihang",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 10,
+      "accepted_lines": 2,
+      "overriden_lines": 1,
+      "per_file_stats": {
+        "webview/src/styles/less/components/message.less": {
+          "additions": 3,
+          "deletions": 10,
+          "accepted_lines": 2,
+          "overriden_lines": 1
+        }
+      }
+    }
+  }
+}
